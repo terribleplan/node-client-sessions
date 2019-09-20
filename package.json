@@ -11,8 +11,8 @@
     "cookies": "^0.7.0"
   },
   "devDependencies": {
-    "express": "4.15.2",
-    "request": "2.81.0",
+    "express": "^4.17.1",
+    "request": "^2.88.0",
     "vows": "^0.8.2"
   },
   "author": {
